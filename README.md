@@ -1,6 +1,6 @@
-### Welcome!
+### Welcome to my Github!
 
-Hi, I am Paul Espina.
+I am Paul Espina, a computer science student.
 - 🏫 I’m currently studyin at FEU Institure of Technology 
 - 👀 I’m looking to collaborate on making games
 
