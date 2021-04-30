@@ -1,7 +1,7 @@
 ### Welcome to my Github!
 
 I am Paul Espina, a computer science student.
-- 🏫 I’m currently studyin at FEU Institure of Technology 
+- 🏫 I’m currently studying at FEU Institure of Technology 
 - 👀 I’m looking to collaborate on making games
 
 ### Badges
